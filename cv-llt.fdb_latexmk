@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber cv-llt"] 1781062242.1592 "cv-llt.bcf" "cv-llt.bbl" "cv-llt" 1781063268.33611 0
-  "cv-llt.bcf" 1781063267 108138 4bc4be500982c986b19222fe65fd7c5f "pdflatex"
+["biber cv-llt"] 1781074669.89041 "cv-llt.bcf" "cv-llt.bbl" "cv-llt" 1781074847.79988 0
+  "cv-llt.bcf" 1781074847 108138 4bc4be500982c986b19222fe65fd7c5f "pdflatex"
   (generated)
   "cv-llt.bbl"
   "cv-llt.blg"
   (rewritten before read)
-["pdflatex"] 1781063263.80508 "e:/Latex_Projects/A_resume/cv-llt.tex" "cv-llt.pdf" "cv-llt" 1781063268.3373 0
+["pdflatex"] 1781074843.34622 "e:/Latex_Projects/A_resume/cv-llt.tex" "cv-llt.pdf" "cv-llt" 1781074847.80076 0
   "C:/Users/princ/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1780987890 568140 ef660462ac60185305c96d7a232148fe ""
   "C:/Users/princ/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1764152544 13333512 73fd4e86489fdb99b57543dccb24a791 ""
   "C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cabin/cbn_i3ioen.enc" 1695673109 2809 947aec6f9801b5a045e999c93403fba2 ""
@@ -247,20 +247,22 @@
   "C:/Users/princ/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/princ/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "C:/Users/princ/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "comment.cut" 1781063266 39 b67765edb9c3c4152c2c578d8ba81daa "pdflatex"
-  "cv-llt.aux" 1781063267 939 7fd1918939491f2952ad073cdb288182 "pdflatex"
-  "cv-llt.bbl" 1781062246 486 76d65a242ec496c9b4361af646ff12cb "biber cv-llt"
-  "cv-llt.out" 1781063267 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv-llt.run.xml" 1781063267 2413 b5a77f9fc197d4e48ab1addfd29182fd "pdflatex"
-  "cv-llt.tex" 1781062467 4020 c50e4b134ce622a45294b0df8bbade40 ""
-  "e:/Latex_Projects/A_resume/cv-llt.tex" 1781062467 4020 c50e4b134ce622a45294b0df8bbade40 ""
+  "acad.tex" 1781074842 650 3a40c1ef6b4669b6007baaa429897121 ""
+  "comment.cut" 1781074846 39 b67765edb9c3c4152c2c578d8ba81daa "pdflatex"
+  "cv-llt.aux" 1781074847 1150 db8d7c482d60f15b1d1f8ad06349dc44 "pdflatex"
+  "cv-llt.bbl" 1781074673 486 76d65a242ec496c9b4361af646ff12cb "biber cv-llt"
+  "cv-llt.out" 1781074846 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv-llt.run.xml" 1781074847 2413 b5a77f9fc197d4e48ab1addfd29182fd "pdflatex"
+  "cv-llt.tex" 1781074087 4061 a2fdc1ac1b18e8a7f454e17b969116a0 ""
+  "e:/Latex_Projects/A_resume/cv-llt.tex" 1781074087 4061 a2fdc1ac1b18e8a7f454e17b969116a0 ""
   "education.tex" 1781062559 340 1eb82d016cb31e781103beb5c6e7a681 ""
-  "employment.tex" 1781062612 2744 57522acbafc02de228b580dd55b3d335 ""
-  "misc.tex" 1781063262 1211 64bd487fab76c4789e22c74c49644c8c ""
+  "employment.tex" 1781073643 2605 e5027c15cbc53b7aa65692d3498bc92b ""
+  "misc.tex" 1781073975 522 c69e98a195473d2d92aaf9065b07349a ""
+  "mission.tex" 1781073467 875 2a3e189b731d5e80384b5e6d807757b9 ""
   "photo.png" 1781054988 122649 09032cc2652264577ead5520a61a8477 ""
   "settings.sty" 1781054988 4714 4bd7f1059984a98a5cccc3cc8087f200 ""
-  "skills.tex" 1781063227 729 90bf8a591851411701c0987bed243406 ""
-  "summary.tex" 1781062202 1331 1452c30e41d1a76748f99e3a8bec6aee ""
+  "skills.tex" 1781074516 348 76c5612a3a60f9251e2e0f8f2a79afa0 ""
+  "summary.tex" 1781073258 757 d490b2fc38e8046e8cb8049a015aaa26 ""
   (generated)
   "comment.cut"
   "cv-llt.aux"

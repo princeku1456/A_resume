@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.26)  10 JUN 2026 09:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.26)  10 JUN 2026 12:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1000,14 +1000,9 @@ File: photo.png Graphic file (type png)
 <use photo.png>
 Package pdftex.def Info: photo.png  used on input line 94.
 (pdftex.def)             Requested size: 62.88295pt x 61.21599pt.
- (summary.tex (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree0.fd)) (summary.tex) (summary.tex) (summary.tex) (employment.tex (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/cochineal\ts1cochineal-osf.fd)) (employment.tex) (employment.tex) (employment.tex) (education.tex) (education.tex) (education.tex) (education.tex) (misc.tex) (misc.tex) (misc.tex) (misc.tex
-Underfull \hbox (badness 2932) in paragraph at lines 20--22
-[]|\T1/Cochineal-OsF/m/n/10.95 Decentralized ad-min-is-tra-tive ma-chiner-ies, Center--State dy-nam-ics, 73rd/74th
- []
+ (summary.tex (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree0.fd)) (summary.tex) (summary.tex) (summary.tex) (mission.tex) (mission.tex) (mission.tex) (mission.tex) (employment.tex (C:\Users\princ\AppData\Local\Programs\MiKTeX\tex/latex/cochineal\ts1cochineal-osf.fd)) (employment.tex) (employment.tex) (employment.tex) (education.tex) (education.tex) (education.tex) (education.tex [1
 
-[1
-
-{C:/Users/princ/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cabin/cbn_i3ioen.enc}{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_mzvjrl.enc}{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_qyvxxn.enc}{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_rwqxgv.enc} <./photo.png>]) (skills.tex) (skills.tex) (skills.tex) (skills.tex) [2] (cv-llt.aux)
+{C:/Users/princ/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cabin/cbn_i3ioen.enc}{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_mzvjrl.enc}{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_qyvxxn.enc}{C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_rwqxgv.enc} <./photo.png>]) (misc.tex) (misc.tex) (misc.tex) (misc.tex) (acad.tex) (acad.tex) (acad.tex) (acad.tex) (skills.tex) (skills.tex) (skills.tex) (skills.tex) [2] (cv-llt.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
@@ -1019,17 +1014,17 @@ Package logreq Info: Writing requests to 'cv-llt.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40025 strings out of 467871
- 814693 string characters out of 5418375
- 1627696 words of memory out of 5000000
- 68248 multiletter control sequences out of 15000+600000
+ 40057 strings out of 467871
+ 815266 string characters out of 5418375
+ 1625794 words of memory out of 5000000
+ 68260 multiletter control sequences out of 15000+600000
  785819 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,11n,108p,1226b,1801s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabin-Bold.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Bold.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Italic.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Roman.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/princ/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb>
-Output written on cv-llt.pdf (2 pages, 334498 bytes).
+Output written on cv-llt.pdf (2 pages, 334192 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 500000)
+ 107 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
  120 words of extra memory for PDF output out of 10000 (max. 10000000)
 
